@@ -2,9 +2,8 @@
 
 - 👋 Hi, I’m @EnniusXII
 - 👀 I’m interested in **Crypto**, **Gaming** and **Anime** 
-- 🌱 I’m currently learning ***HTML*** and ***CSS*** 
-- 💞️ I’m looking to collaborate on ... Nothing atm 😎
-- 📫 How to reach me ... Can be hard sometimes 😇
+- 🌱 I’m currently studying to become a ***Blockchain Developer*** at Medieinstitutet
+- 🚀 I've developed skills in HTML, CSS, JavaScript, React, NodeJS, and Solidity
 
 <!---
 EnniusXII/EnniusXII is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
